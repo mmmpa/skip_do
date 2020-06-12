@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/mmmpa/skip_do.svg?style=svg)](https://circleci.com/gh/mmmpa/treeer)
+
 # SkipDo
 
 An iterator that skip items and use skipped items
